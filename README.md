@@ -4,7 +4,7 @@ My name is Matthew Picozzi and I am a Mechatronics Engineering student at the [U
 
 ### Now
 - 🔭 **I’m currently working** on building an algorithmic trading bot using aggregate data from social media
-- 🌱 **I’m currently learning** natural language processing using Python and algorithmic trading strategies 💰
+- 🌱 **I’m currently learning** natural language processing using Python and unique algorithmic trading strategies 💰
 
 ### Bio
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/matthewpicozzi)
